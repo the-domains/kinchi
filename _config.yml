@@ -1,0 +1,73 @@
+typography_spectrum: 0.9823660669725683
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.8658803266850253
+  lightness: 0.2989112643871714
+  saturation: 0.510218071848025
+  rhythmicContrast: 0.1295673465967584
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.038991542191585835
+author:
+  name: Ethnic Arts & Facts
+  url: 'https://thegrid.ai/TheCultureKitCompany/'
+  email: TheCultureKitCompany@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe28436-aa43-4d0f-8398-9dc7effc8b55.jpg
+name: The Culture Kit Company
+url: 'https://thegrid.ai/TheCultureKitCompany/'
+navigation:
+  - name: About us
+    id: 890878f0-c0f0-45cc-b30d-1bd27c71918b
+    type: content
+  - name: Ethical Practices
+    id: 66dc01e7-9c74-433c-8a15-dec90d10ab2c
+    type: content
+  - name: Experience the Maya & Inca
+    id: be390d95-9422-4263-b18f-d7ce95280700
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f574e9d-6dbf-4f16-bbb2-48b0522674bf.jpg
+title: experience culture first-hand ...in your hands
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/130d26be-e204-4c38-9c97-25147e888944.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/130d26be-e204-4c38-9c97-25147e888944.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: The Culture Kit Company
+purpose:
+  - type: contact
+    url: 'tel:5102907504'
+    label: Call us
+  - type: contact
+    url: 'mailto:TheCultureKitCompany@gmail.com'
+    label: eMail us
+github: true
